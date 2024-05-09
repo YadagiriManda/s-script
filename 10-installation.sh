@@ -10,3 +10,5 @@ else
 fi
 
 dng insatll mysql -y
+
+echo "is script proceeding"
