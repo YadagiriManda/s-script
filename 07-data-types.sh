@@ -9,4 +9,4 @@ NO2=$2
 DIV=$(($NO1/$NO2))
 
 
-echo "Total of $NO1 and $NO2 is: $MUL"
+echo "Total of $NO1 and $NO2 is: $DIV"
