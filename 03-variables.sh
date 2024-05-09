@@ -1,7 +1,7 @@
 #!/bin/bash
 # declaring the variables
-PERSON1=Sachin #no space between = and value
-PERSON2=Rahul
+PERSON1=Ramesh #no space between = and value
+PERSON2=Mahesh
 #reffering the variables
 echo "$PERSON1:: Hello $PERSON2,How are you?"
 echo "$PERSON2:: Hii $PERSON1, I am fine, How are you"
