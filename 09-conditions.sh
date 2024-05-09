@@ -7,7 +7,7 @@ then
     echo "Given number $NUMBER is greater than 10"
 else if
     echo "Given number $NUMBER is less than 10"
-else
+then
     echo "Given number $NUMBER is equal to 10" 
 fi
 
