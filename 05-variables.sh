@@ -3,8 +3,8 @@
 
  read USERNAME #here USERNAME is variable
 
- echo "Please Enter Username::"
+ echo "Please Enter Password::"
 
  read PASSWORD
 
- echo "Username is: $USERNAME, password is: $PASSWORD"
+ echo "Username  is: $USERNAME, password is: $PASSWORD"
